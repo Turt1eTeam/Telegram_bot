@@ -1,0 +1,1 @@
+TOKEN = "*** ВАШ API Telegram Bot`а ***"
